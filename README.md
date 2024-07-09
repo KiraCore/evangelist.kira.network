@@ -1,2 +1,2 @@
 # evangelist.kira.network
-testers submission form - redirection page for dns records
+evangelists & testnet submission form  - redirection page for dns records
